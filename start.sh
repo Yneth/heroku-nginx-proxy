@@ -1,3 +1,4 @@
+#!/bin/bash
 ./build.sh
 docker stop hnp &> /dev/null
 docker rm hnp &> /dev/null
